@@ -6,6 +6,9 @@ const doctorSchema = new mongoose.Schema({
     unique: true,
     required: true,
   },
+  name:{
+    type:String
+  },
   department: {
     type: String,
     required: true,

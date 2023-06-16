@@ -38,3 +38,24 @@ token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhbmthakAxMjQ0NTYiLCJ
   "department":"Cardiology",
   "speciality":"Heart Operation"
 }
+{
+
+  patientname: 'Pankaj Kumar',
+
+  patientemail: 'pankajaap8055@gmail.com',
+
+  patientmobile: '9315448505',
+
+  department: 'Eye Care',
+
+  doctorname: 'Dr. Cristino Murphy',
+
+  appointmentdate: '2023-06-17',
+
+  appointmenttime: '16:26',
+
+  patientdiscription: 'ddfggfdfgfgdfg',
+
+  status: 'pending'
+
+}
