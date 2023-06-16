@@ -1,0 +1,40 @@
+{
+  "firstname": "pankaj",
+  "lastname": "kumar",
+  "usertype": "admin",
+  "email": "pankaj@124456",
+  "image":"https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg",
+  "mobile": "9315448507",
+  "password": "#Pankaj1234",
+  "cart": [
+    {
+      "productId": "12343",
+      "quantity": 2,
+      "price": 500
+    }
+  ],
+  "favorites": [
+    {
+      "productId": "123435555"
+    }
+  ]
+}
+token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InBhbmthakAxMjQ0NTYiLCJpYXQiOjE2ODYwMjc2MDcsImV4cCI6MTY4NjIwMDQwN30.ZOmTCEkTaZcxds36Bu8QoSZrXJvR0-VhO2mcrl1E-Ag
+
+{
+  "name": "Medigrip",
+  "price": 1000,
+  "rating": 4.5,
+  "stock": 10,
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero exercitationem, unde molestiae sint quae inventore atque minima natus fugiat nihil quisquam voluptates ea omnis. Modi laborum soluta tempore unde accusantium",
+  "image": [
+    "https://shreethemes.in/doctris/layouts/assets/images/pharmacy/shop/medigrip.jpg"
+  ],
+  "discount": 4
+}
+
+{
+  "email":"pankaj@124456",
+  "department":"Cardiology",
+  "speciality":"Heart Operation"
+}
